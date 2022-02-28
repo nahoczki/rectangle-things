@@ -169,7 +169,7 @@ img {
     }
 }
 
-@media screen and (min-width: 1600px) and (max-width: 1700px) {
+@media screen and (min-width: 1600px) {
     h1 {
         color: white;
     }
